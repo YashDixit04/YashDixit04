@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YashDixit04
 - 👀 I’m interested in Web developmenet and Web desiging
 - 🌱 I’m currently learning JAVASCRIPT and React.Js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Found out more about me - https://xksw89.csb.app/
 - 📫 How to reach me - mail me on yash9369d@gmail.com 
 
 <!---
